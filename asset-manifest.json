@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-login-signup-ui-template/static/css/main.cfc4900b.chunk.css",
+    "main.js": "/react-login-signup-ui-template/static/js/main.3a896825.chunk.js",
+    "main.js.map": "/react-login-signup-ui-template/static/js/main.3a896825.chunk.js.map",
+    "runtime-main.js": "/react-login-signup-ui-template/static/js/runtime-main.fa89d72d.js",
+    "runtime-main.js.map": "/react-login-signup-ui-template/static/js/runtime-main.fa89d72d.js.map",
+    "static/css/2.30c2d978.chunk.css": "/react-login-signup-ui-template/static/css/2.30c2d978.chunk.css",
+    "static/js/2.83fb8aa1.chunk.js": "/react-login-signup-ui-template/static/js/2.83fb8aa1.chunk.js",
+    "static/js/2.83fb8aa1.chunk.js.map": "/react-login-signup-ui-template/static/js/2.83fb8aa1.chunk.js.map",
+    "index.html": "/react-login-signup-ui-template/index.html",
+    "precache-manifest.4a24bccb1e5dfc256a33c0cd3a0b7742.js": "/react-login-signup-ui-template/precache-manifest.4a24bccb1e5dfc256a33c0cd3a0b7742.js",
+    "service-worker.js": "/react-login-signup-ui-template/service-worker.js",
+    "static/css/2.30c2d978.chunk.css.map": "/react-login-signup-ui-template/static/css/2.30c2d978.chunk.css.map",
+    "static/css/main.cfc4900b.chunk.css.map": "/react-login-signup-ui-template/static/css/main.cfc4900b.chunk.css.map",
+    "static/js/2.83fb8aa1.chunk.js.LICENSE.txt": "/react-login-signup-ui-template/static/js/2.83fb8aa1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa89d72d.js",
+    "static/css/2.30c2d978.chunk.css",
+    "static/js/2.83fb8aa1.chunk.js",
+    "static/css/main.cfc4900b.chunk.css",
+    "static/js/main.3a896825.chunk.js"
+  ]
+}
